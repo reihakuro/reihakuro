@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+%F0%9F%91%8B;Let's+checkout+some+of+my+project;Sharing+is+a+best+way+of+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+%F0%9F%91%8B;Let's+checkout+some+of+my+project;Sharing+is+the+best+way+of+learning" alt="Typing SVG" />
 </h1>
 
 
@@ -32,4 +32,6 @@ Interested in:
 
 ---
 
-</p>
+### Contact me
+
+
