@@ -48,7 +48,8 @@ Interested in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reihakuro&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reihakuro&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=reihakuro&theme=tokyonight" height="165" />
 </p>
 
 ## 📘 My Project
