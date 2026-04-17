@@ -51,6 +51,58 @@ Interested in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reihakuro&layout=compact&theme=vision-friendly-dark" />
 </p>
 
+## 📘 My Project
+
+<details>
+  <summary><b><font size="8">❇️ Completed Projects</font></b></summary>
+  <br>
+  <div align="left">
+    <a href="https://github.com/reihakuro/esp32-smart-fan">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=esp32-smart-fan&theme=tokyonight&description_lines_count=3" />
+    </a>
+    <a href="https://github.com/reihakuro/]commun-signal-classification">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=commun-signal-classification&theme=tokyonight&description_lines_count=3" />
+    </a>
+    <a href="https://github.com/reihakuro/]std_cell_lib">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=std_cell_lib&theme=tokyonight&description_lines_count=3" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b><font size="8">🛠️ Currently Working</font></b></summary>
+  <br>
+  <div align="left">
+    <a href="https://github.com/reihakuro/gps-tracker-main">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=gps-tracker-main&theme=tokyonight&description_lines_count=3" />
+    </a>
+    <a href="https://github.com/reihakuro/ai_classification">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=ai_classification&theme=tokyonight&description_lines_count=3" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b><font size="8"> 🧪 Experimentals / Researches </font></b></summary>
+  <br>
+  <div align="left">
+    <a href="https://github.com/reihakuro/eeprom-programming">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=eeprom-programming&theme=tokyonight&description_lines_count=3" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b><font size="8"> 🌷 Side Projects </font></b></summary>
+  <br>
+  <div align="left">
+    <a href="https://github.com/reihakuro/track-gps-generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=track-gps-generator&theme=tokyonight&description_lines_count=3" />
+    </a>
+  </div>
+</details>
+
+
 
 
 
