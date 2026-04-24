@@ -90,6 +90,9 @@ Interested in:
     <a href="https://github.com/reihakuro/eeprom-programming">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=eeprom-programming&theme=tokyonight&description_lines_count=3" />
     </a>
+     <a href="https://github.com/reihakuro/18F6722-programming">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reihakuro&repo=18F6722-programming&theme=tokyonight&description_lines_count=3" />
+    </a>
   </div>
 </details>
 
